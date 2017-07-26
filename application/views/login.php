@@ -13,6 +13,11 @@
   <script src="http://mydev.com/assests/js/login.js"></script>
 </head>
 
+
+
+
+
+
   <body>
       <div id="fullscreen_bg" class="fullscreen_bg"/>
       <div id="regContainer" class="container">
